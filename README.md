@@ -40,5 +40,5 @@ To run locally:
 git clone https://github.com/Oleksandr-Bielikov/ml-experiment-tracker.git
 cd ml-experiment-tracker
 npm install
-npm run dev
+npm start
 ```
