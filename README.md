@@ -28,6 +28,10 @@ The default format expects the following columns:
 - **React Router**
 - **PapaParse** — for fast CSV parsing
 
+## 🚀 Live Demo
+
+👉 [Click here to try the app](https://ml-experiment-tracker.vercel.app/)
+
 ## 🚀 Getting Started
 
 To run locally:
